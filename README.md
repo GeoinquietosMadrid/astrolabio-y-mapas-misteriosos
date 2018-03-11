@@ -8,7 +8,7 @@
 
 ### El Astrolabio
 
-![astrolabio](imgs/astrolabio.jpg)
+![astrolabio](/imgs/Charla astrolabio.jpg)
 
 * Toni Bolinches
 * [Charla]()
