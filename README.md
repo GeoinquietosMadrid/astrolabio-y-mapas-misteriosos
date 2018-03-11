@@ -11,12 +11,12 @@
 ![astrolabio](imgs/astrolabio.jpg)
 
 * Toni Bolinches
-* [Charla]()
-* [Excel]()
+* [Charla](https://drive.google.com/file/d/1IggEY0-NajnmCywcQj4eLOkYFNFjCVdS/view?usp=sharing)
+* [Excel](https://drive.google.com/file/d/17-By4qFg6U2eWDfAdCeCt480C4GZ5cCi/view?usp=sharing)
 
 ### Mapas Misteriosos
 
 ![mapas-misteriosos](imgs/mapas-misteriosos.jpg)
 
 * Roberto Matellanes
-* [Charla]()
+* [Charla](https://drive.google.com/open?id=1Dr-fVw3Ap91jzg6wp7dXqY-6sh8YDu8l)
